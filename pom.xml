@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>Tennis</artifactId>
+  <artifactId>tennis</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Tennis</name>
+  <name>tennis</name>
   <url>http://www.example.com</url>
 
   <properties>
